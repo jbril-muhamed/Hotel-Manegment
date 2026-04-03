@@ -1,0 +1,5 @@
+# Created at 2025-01-19T19:57:58.495
+Boot Manifest-JAR contains absolute paths in classpath 'D:\coding\project\skylight\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
